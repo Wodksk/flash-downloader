@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="image">
+    <file alias="logo.png">resources/logo.png</file>
+    <file alias="logo_withoutBackground.png">resources/logo_withoutBackground.png</file>
+  </qresource>
+  <qresource prefix="res">
+    <file alias="chrome_extension.crx">resources/chrome_extension.crx</file>
+    <file alias="install_chrome_extension_guidance.png">resources/install_chrome_extension_guidance.png</file>
+    <file alias="completed.wav">resources/completed.wav</file>
+  </qresource>
+</RCC>
